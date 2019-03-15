@@ -4,7 +4,7 @@ Steps to test the widget
 
 git clone https://github.com/pedroalbernaz/purchase_summary.git
 
-cd my-app
+cd purchase_summary
 
 npm install
 
