@@ -1,10 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Quick Overview
+Steps to test the widget
 
 git clone https://github.com/pedroalbernaz/purchase_summary.git
+
 cd my-app
+
 npm install
+
 npm start
 
 ## Available Scripts
